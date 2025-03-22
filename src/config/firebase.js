@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore, enableIndexedDbPersistence } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAbRha1rBDynh8wI7qiYzQoAMFguLvvpNs",
+  apiKey: "",
   authDomain: "steep-quiz-da6da.firebaseapp.com",
   projectId: "steep-quiz-da6da",
   storageBucket: "steep-quiz-da6da.firebasestorage.app",
